@@ -86,3 +86,6 @@
     font-size: 5rem;
     color: var(--black);
 }
+.login-form-container.active{
+    right: 0;
+}
