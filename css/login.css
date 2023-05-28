@@ -19,4 +19,8 @@
     border-radius: .5rem;
     margin: 2rem;
 }
-.login-form-container form h3
+.login-form-container form h3{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
