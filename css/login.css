@@ -10,6 +10,9 @@
     height: 100%;
     width: 100%;
 }
+.login-form-container.active{
+    right: 0;
+}
 
 .login-form-container form{
     background: #fff;
@@ -85,7 +88,4 @@
     top: 1.5rem; right: 2.5rem;
     font-size: 5rem;
     color: var(--black);
-}
-.login-form-container.active{
-    right: 0;
 }
