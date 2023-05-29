@@ -108,24 +108,25 @@ section{
 }
 
 .header .header-1 .icons div:hover,
-.header .header-1 .icons a:hover {
+.header .header-1 .icons a:hover  {
     color: var(--green);
 }
 
-#search-btn {
+#search-btn  {
     display: none;
 }
 
 
-.header .header-2 {
+.header .header-2  {
     background: var(--green);
 }
 
-.header .header-2 .navbar {
+.header .header-2 .navbar  {
     text-align: center;
 }
 
-.header .header-2 .navbar a {
+
+.header .header-2 .navbar a  {
     color: #fff;
     display: inline-block;
     padding: 1.2rem;
@@ -133,11 +134,12 @@ section{
     text-decoration: none;
 }
 
-.header .header-2 .navbar a:hover {
-    background: var(--dark-color);
+
+.header .header-2 .navbar a:hover  {
+    background:  var(--dark-color);
 }
 
-.header .header-2.active {
+.header .header-2.active  {
     position: fixed;
     top: 0;
     left: 0;
@@ -152,16 +154,28 @@ section{
 }
 
 
+
+
+body {
+    height: 300rem;
+}
+
+
 .bottom-navbar {
     text-align: center;
     background: var(--green);
     position: fixed;
     bottom: 0;
     left: 0;
+    bottom: 0;
+    left: 0;
     right: 0;
     z-index: 1000;
     display: none;
+    z-index: 1000;
+    display: none;
 }
+
 
 .bottom-navbar a {
     font-size: 2.5rem;
@@ -172,6 +186,36 @@ section{
 .bottom-navbar a:hover {
     background: var(--dark-color);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
