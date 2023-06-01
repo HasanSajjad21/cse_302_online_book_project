@@ -1,7 +1,7 @@
 @import url("style.css");
 
 .home{
-    background: url(/image/smooth-white-brick-wall.jpg);
+    background: url(/img/banner-bg.jpg);
     background-size: cover;
     background-position: center;
 }
