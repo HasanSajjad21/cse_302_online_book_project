@@ -32,7 +32,11 @@ window.onload = () =>{
     } else {
         document.querySelector('.header .header-2').classList.remove('active');
     }
+
+    
 }
+
+
 
 /*logging js */
 
@@ -49,3 +53,4 @@ window.onload = () =>{
 
 /*icon */
 
+/* book swep */
